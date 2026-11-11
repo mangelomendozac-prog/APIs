@@ -6,8 +6,7 @@ Página web alojada en un proyecto **ASP.NET Core MVC** que consume cuatro APIs 
 
 ## Integrantes
 
-- _Nombre Apellido_
-- _Nombre Apellido_
+- Miguel angelo mendoza coronado
 
 ## Tecnologías
 
