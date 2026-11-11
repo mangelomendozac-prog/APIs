@@ -90,5 +90,7 @@ Cada tarjeta tiene un contenedor con un `id` propio (`contenido-cita`, `contenid
 
 ## Capturas
 
-- `capturas/funcionando.png` — las cuatro secciones mostrando contenido.
-- `capturas/error.png` — mensaje de error controlado (simulado desconectando Internet y solicitando nuevo contenido).
+Las capturas se entregan por separado en un archivo PDF:
+
+- Las cuatro secciones funcionando y mostrando contenido.
+- Un mensaje de error controlado (simulado desconectando Internet y solicitando nuevo contenido).
